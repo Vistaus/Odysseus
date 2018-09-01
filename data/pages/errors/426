@@ -1,4 +1,0 @@
-{% trans %}Upgrading protocol…{% endtrans %}
-
-{# This should be taken care of internally to WebKit #}
-{# Potential icon: dialog-information #}
